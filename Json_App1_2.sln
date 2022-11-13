@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json_App1_2", "Json_App1_2\Json_App1_2.csproj", "{E6D97CD9-A0DA-4CC2-AD0C-E1F41B687AA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json_App1_2_contin", "Json_App1_2_contin\Json_App1_2_contin.csproj", "{655340B7-BA08-4709-AE2C-B0E7F4C60EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6D97CD9-A0DA-4CC2-AD0C-E1F41B687AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D97CD9-A0DA-4CC2-AD0C-E1F41B687AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D97CD9-A0DA-4CC2-AD0C-E1F41B687AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D97CD9-A0DA-4CC2-AD0C-E1F41B687AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655340B7-BA08-4709-AE2C-B0E7F4C60EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655340B7-BA08-4709-AE2C-B0E7F4C60EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655340B7-BA08-4709-AE2C-B0E7F4C60EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655340B7-BA08-4709-AE2C-B0E7F4C60EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9737130-8BA0-45E5-9E50-8551FF4EF94E}
+	EndGlobalSection
+EndGlobal
